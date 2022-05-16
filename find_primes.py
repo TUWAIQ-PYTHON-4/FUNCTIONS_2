@@ -1,3 +1,4 @@
+
 def is_prime(n):
     '''
      this function check is it prime or not.
