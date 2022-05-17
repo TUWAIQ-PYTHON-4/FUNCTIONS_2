@@ -6,10 +6,16 @@ def number(val1:int , val2:int  ):
         for j in range(2,i):
            if (i%j)==0:
              break
-    else:  
-            print (i)  
+        else:
+          print (i)
+
+
+number(10,20)
+            
+          
+              
 
    
-  number(10,20)
+  
 
 
